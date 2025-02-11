@@ -13,7 +13,7 @@ namespace MauiPlanets
                 {
                     fonts.AddFont("Montserrat-Medium.ttf", "RegularFont");
                     fonts.AddFont("Montserrat-SemiBold.ttf", "MediumFont");
-                    fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
+                    fonts.AddFont("Montserrat-Bold.ttf", "BoldFont");
                 });
 
 #if DEBUG
